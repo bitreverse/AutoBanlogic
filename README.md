@@ -25,9 +25,9 @@ git clone https://github.com/bitreverse/AutoBanlogic.git
 
 ### Running the program
 ```
-python autotrade.py query.txt result.md
+python autotrade.py query.md result.md
 ```
-- query.txt: Write \<Messages\>, \[\<Idealization\>\], and \[\<Goals\>\] on this file.
+- query.md: Write \<Messages\>, \[\<Idealization\>\], and \[\<Goals\>\] on this file.
 - result.md
     - Since the results are output in Markdown format, it is recommended to use the .md extension.
     - If you view the output file through a Markdown viewer, it will be easier to check.
