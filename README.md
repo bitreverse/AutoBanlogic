@@ -2,7 +2,7 @@
 - Automate the Burrows-Abadi-Needham logic process using the ChatGPT API. by Dowon Kim
 
 ## Introduction
-### 1.autobanlogic.py, instructions.md
+### autobanlogic.py, instructions.md
 - autobanlogic.py: You need to download and install Python 3 to run it.
 - instructions.md: File for training BAN logic on ChatGPT.
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 git clone https://github.com/bitreverse/AutoBanlogic.git
 ```
 
-### 실행하기
+### Running the program
 ```
 python autotrade.py query.txt result.md
 ```
